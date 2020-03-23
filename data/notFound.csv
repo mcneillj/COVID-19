@@ -1,20 +1,6 @@
-County,Province_State,Country_Region
-Detroit City,Michigan,US
-Out of State,Michigan,US
-Brockton,Massachusetts,US
-Dukes and Nantucket,Massachusetts,US
-Out-of-state,Tennessee,US
-Unknown,Tennessee,US
-Stanley,North Carolina,US
-Out of state,Ohio,US
-Portsmouth City,Virginia,US
-Filmore,Minnesota,US
-Non-Utah resident,Utah,US
-Weber-Morgan,Utah,US
-Southwest Utah,Utah,US
-Navajo Nation,Arizona,US
-District of Columbia,"Washington, D.C.",US
-Kansas City,Missouri,US
-Berknap,New Hampshire,US
-Hawaii Island,Hawaii,US
-Seward,Alaska,US
+County,Province_State,Country_Region,Confirmed,Deaths
+Matanuska-Susitna Borough,Alaska,US,2,0
+,External territories,Australia,0,0
+,Jervis Bay Territory,Australia,0,0
+,Yukon,Canada,2,0
+,Northwest Territories,Canada,1,0
